@@ -1,7 +1,16 @@
 <div align="center">
-  <!-- Banner animado con Rayos Eléctricos y Tormenta de Alto Voltaje estilo React Bits Lightning -->
-  <img src="https://i.imgur.com/AlN5Jgl.gif" width="100%" height="240" alt="Lightning Electric Storm Banner" />
+  <!-- Banner animado divertido: Mario Gamer & Programmer en su setup pixel art con consolas y código -->
+  <img src="https://i.imgur.com/OtKaMW7.gif" width="100%" alt="Mario Programmer & Gamer Setup Pixel Art Banner" />
 </div>
+
+<!-- Trío de animaciones divertidas de programación -->
+<p align="center">
+  <img src="https://i.imgur.com/AsDaISP.gif" width="125" alt="Multitasking Coder Cat" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/YpD9nkS.gif" width="125" alt="Linux Penguin Developer" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/bL5vrdr.gif" width="125" alt="Chill Laptop Coder Kitten" />
+</p>
 
 <!-- Título dinámico interactivo en estilo Neon Cyan -->
 <p align="center">
