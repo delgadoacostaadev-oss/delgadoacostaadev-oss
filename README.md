@@ -127,8 +127,17 @@
 <br/>
 
 <div align="center">
-  <!-- Animación temática de programación nocturna -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Setup" />
+  <!-- El juego de la serpiente (Snake) comiendo las contribuciones de GitHub -->
+  <h4>🐍 `[ THE SNAKE GAME - EATING COMMITS ]`</h4>
+  <img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/snake-output/snake.svg" width="100%" alt="Snake Game GitHub Contributions" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- El juego de Pac-Man retro arcade en el tablero de contribuciones -->
+  <h4>👾 `[ PAC-MAN RETRO ARCADE - CONTRIBUTIONS ]`</h4>
+  <img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/pacman-output/pacman-contribution-graph-dark.svg" width="100%" alt="Pacman Game GitHub Contributions" />
 </div>
 
 ---
