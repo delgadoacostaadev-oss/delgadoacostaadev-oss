@@ -1,17 +1,11 @@
 <h1 align="center">Hola 👋, soy ANTONY ACOSTA DELGADO</h1>
 <h3 align="center">💻 Estudiante de Desarrollo de Software | SENATI</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Desarrollador+de+Sistemas+y+Software+Web;Creando+soluciones+digitales+eficientes;Apasionado+por+el+código+limpio+y+la+innovación" alt="Typing SVG" />
-</p>
+Estudiante de 4.º ciclo en SENATI, aprendiendo a desarrollar aplicaciones web y construir soluciones tecnológicas.
 
-<p align="center">
-  <a href="#sobre-mí">Sobre mí</a> •
-  <a href="#tecnologías-y-herramientas">Tecnologías</a> •
-  <a href="#proyectos-destacados">Proyectos</a> •
-  <a href="#estadísticas">Estadísticas</a> •
-  <a href="#contacto">Contacto</a>
-</p>
+🚀 Me gusta aprender nuevas tecnologías, desarrollar proyectos y mejorar mis habilidades de programación.
+
+🌱 Actualmente estoy fortaleciendo mis conocimientos en desarrollo frontend, backend y bases de datos.
 
 ---
 
