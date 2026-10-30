@@ -1,14 +1,14 @@
 <div align="center">
-  <!-- Banner animado fluido con estética Cyber-Tech que armoniza con GitHub Dark -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0969da&height=220&section=header&text=Antony%20Acosta%20Delgado&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Software%20Engineer%20%7C%20SENATI%204to%20Ciclo&descFontSize=18&descAlignY=60&descColor=38bdf8&animation=fadeIn" width="100%" />
+  <!-- Banner animado alojado directamente en el repositorio (100% garantizado) -->
+  <img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/main/assets/banner.svg" width="100%" alt="Header Banner" />
 </div>
 
-<!-- Animación de consola con tipografía monoespaciada -->
+<!-- Animación de consola interactiva -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack+%7C+Next.js+%2B+NestJS;Explorando+Inteligencia+Artificial+y+Data+Science;Estudiante+de+Software+en+SENATI+4to+Ciclo;Construyendo+sistemas+web+y+soluciones+escalables" alt="Terminal Typing Animation" />
 </p>
 
-<!-- Badges de estado en una sola línea homogénea -->
+<!-- Badges profesionales con estilo tech -->
 <p align="center">
   <img src="https://img.shields.io/badge/SENATI-4to_Ciclo_Software-0969da?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="SENATI" />
   <img src="https://img.shields.io/badge/ENFOQUE-Full_Stack_&_IA-00f5d4?style=for-the-badge&logo=codefactor&logoColor=black" alt="Enfoque" />
@@ -17,31 +17,26 @@
 </p>
 
 <!-- Barra divisoria animada RGB -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/main/assets/divider.gif" width="100%">
 
 ### 💻 `[ PERFIL DEL DESARROLLADOR ]`
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>🚀 ¡Hola! Soy Antony Acosta Delgado</h3>
-      <p>Estudiante de <b>4.° ciclo de Desarrollo de Software en SENATI</b>, enfocado en el desarrollo de aplicaciones web completas, modernas y escalables con integración de Inteligencia Artificial.</p>
-      <ul>
-        <li>🎓 <b>Formación Académica:</b> SENATI — Desarrollo de Software (4to ciclo).</li>
-        <li>💻 <b>Especialidad:</b> Arquitecturas Full Stack modernas (Next.js, NestJS, Node.js, Python).</li>
-        <li>🤖 <b>IA & Visión:</b> Visión artificial con OpenCV, Deep Learning básico con PyTorch y análisis con Pandas.</li>
-        <li>🛠️ <b>Estándares:</b> Código limpio, APIs modulares, bases de datos optimizadas (SQL & NoSQL) y despliegue continuo.</li>
-      </ul>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <!-- GIF animado real estilo Cyber Hacker en triple monitor -->
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px;" alt="Cyber Developer Setup" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- GIF animado cyberpunk en triple monitor alojado en el repo -->
+  <img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/main/assets/developer.gif" width="480" alt="Cyber Developer Setup" />
+</div>
+
+<br/>
+
+> 🚀 **¡Hola! Soy Antony Acosta Delgado**, estudiante de **4.° ciclo de Desarrollo de Software en SENATI**. Me dedico a la creación de aplicaciones web completas, arquitecturas modernas y soluciones con Inteligencia Artificial.
+
+* 🎓 **Formación Académica:** SENATI — Desarrollo de Software (4to ciclo).
+* 💻 **Especialidad:** Arquitecturas Full Stack modernas con **Next.js**, **NestJS**, **Node.js** y **Python**.
+* 🤖 **IA & Computación:** Visión artificial con **OpenCV**, redes neuronales con **PyTorch** y análisis con **Pandas**.
+* 🛠️ **Estándares:** Código limpio, arquitecturas modulares, bases de datos optimizadas (**PostgreSQL, MySQL, MongoDB, SQLite**) y control de versiones profesional.
 
 <!-- Barra divisoria animada RGB -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/main/assets/divider.gif" width="100%">
 
 ### 📁 `[ PORTAFOLIO DE SISTEMAS Y PROYECTOS ]`
 
@@ -56,7 +51,7 @@
 </div>
 
 <!-- Barra divisoria animada RGB -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/main/assets/divider.gif" width="100%">
 
 ### ⚔️ `[ ARSENAL TECNOLÓGICO ]`
 
@@ -88,7 +83,7 @@
 </div>
 
 <!-- Barra divisoria animada RGB -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/main/assets/divider.gif" width="100%">
 
 ### 🏆 `[ SALA DE LOGROS & TROFEOS ]`
 
@@ -117,7 +112,7 @@
 </div>
 
 <!-- Barra divisoria animada RGB -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/main/assets/divider.gif" width="100%">
 
 ### 👾 `[ ZONA ARCADE : CONTRIBUCIONES EN VIVO ]`
 
@@ -141,5 +136,5 @@
 
 <!-- Footer estilizado en armonía con GitHub -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,50:161b22,100:0d1117&height=110&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/main/assets/footer.svg" width="100%" alt="Footer Wave" />
 </div>
