@@ -1,123 +1,100 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,30&height=220&section=header&text=Antony%20Acosta%20Delgado&fontSize=42&fontAlignY=36&desc=💻%20Estudiante%20de%20Desarrollo%20de%20Software%20%7C%20SENATI%20(4.°%20ciclo)&descFontSize=20&descAlignY=58&animation=fadeIn" width="100%" />
+  <!-- Banner principal con estilo Cyberpunk / Glitch -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=ANTONY%20ACOSTA&fontSize=55&fontColor=00F5D4&fontAlignY=42&desc=%E2%9A%A1%20Full%20Stack%20Dev%20%7C%20AI%20Explorer%20%7C%20SENATI%20(4.%C2%B0%20Ciclo)%20%E2%9A%A1&descFontSize=20&descAlignY=68&animation=twinkling&stroke=FF007F&strokeWidth=2" width="100%" />
 </div>
 
+<!-- Texto animado estilo terminal hacker -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Estudiante+de+Software+en+SENATI;Desarrollador+Web+Full+Stack;Explorando+Inteligencia+Artificial+y+Datos;Construyendo+soluciones+digitales+eficientes;¡Bienvenido+a+mi+espacio+en+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=%3E+Iniciando+sistema...+%5BOK%5D;%3E+Cargando+arsenal%3A+Next.js+%2B+NestJS+%2B+Python;%3E+Modo%3A+Cero+Sue%C3%B1o%2C+100%25+C%C3%B3digo+%F0%9F%94%A5;%3E+Construyendo+IA+y+arquitecturas+escalables;%3E+Bienvenido+a+mi+base+de+operaciones+%F0%9F%91%BE" alt="Typing SVG" />
 </p>
 
-
-
+<!-- Badges de estado estilo Gaming / RPG -->
 <p align="center">
-  <a href="#-sobre-mí"><b>Sobre mí</b></a> •
-  <a href="#-tecnologías-y-herramientas"><b>Tecnologías</b></a> •
-  <a href="#-trofeos-y-logros"><b>Logros</b></a> •
-  <a href="#-estadísticas-de-github"><b>Estadísticas</b></a> •
-  <a href="#-arcade-de-contribuciones"><b>Arcade</b></a> •
-  <a href="#-conéctate-conmigo"><b>Contacto</b></a>
+  <img src="https://img.shields.io/badge/NIVEL-4.°_CICLO_SENATI-FF0055?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLASE-FULL_STACK_&_AI-00F5D4?style=for-the-badge&logo=steam&logoColor=black" />
+  <img src="https://img.shields.io/badge/STATUS-GRINDEANDO_CÓDIGO-7B2CBF?style=for-the-badge&logo=itch.io&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=delgadoacostaadev-oss&label=PLAYERS_ONLINE&color=00F5D4&style=for-the-badge" />
 </p>
 
----
+<!-- Barra divisoria RGB animada -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 👨‍💻 Sobre mí
+### 🕹️ `[ PLAYER_1 : PERFIL DE JUGADOR ]`
 
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <p>Estudiante de <b>4.° ciclo de Desarrollo de Software en SENATI</b>, apasionado por transformar líneas de código en plataformas digitales intuitivas, dinámicas y de alto rendimiento.</p>
-      <ul>
-        <li>🎓 <b>Formación:</b> SENATI (4.° ciclo - Desarrollo de Software).</li>
-        <li>💻 <b>Especialidad:</b> Arquitecturas Web Full Stack (Next.js + NestJS) y análisis con IA / Python.</li>
-        <li>🌱 <b>Enfoque actual:</b> Construcción de APIs escalables, buenas prácticas (Clean Code) y manejo de bases de datos relacionales y NoSQL.</li>
-        <li>⚡ <b>Filosofía:</b> Aprender haciendo, iterar rápido y entregar valor real con cada proyecto.</li>
-      </ul>
+    <td width="60%" valign="middle">
+      <pre>
+╔══════════════════════════════════════════════════════╗
+║  👤 JUGADOR   : Antony Acosta Delgado                ║
+║  🎓 GREMIO    : SENATI - Desarrollo de Software      ║
+║  ⚔️ ARMA MAIN : Next.js + NestJS + Python (IA)       ║
+║  🔥 PASIVA    : Aprender rápido & romper límites     ║
+╚══════════════════════════════════════════════════════╝</pre>
+      <p>⚡ <b>Misión Principal:</b> Transformar ideas complejas en plataformas web brutales, rápidas y con integración de Inteligencia Artificial.</p>
+      <p>🎧 <b>Side Quests:</b> Dominando APIs escalables, bases de datos SQL/NoSQL, visión artificial con OpenCV y arquitecturas limpias mientras suena un buen playlist de fondo.</p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 Trofeos y Logros
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=delgadoacostaadev-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trofeos de GitHub" width="100%" />
-</div>
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <h4>🌐 Frontend & UI</h4>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css" height="54" alt="Frontend" />
-    </td>
-    <td align="center" width="50%">
-      <h4>⚙️ Backend & Lenguajes</h4>
-      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,php,java" height="54" alt="Backend" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h4>🤖 IA & Ciencia de Datos</h4>
-      <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,pandas" height="54" alt="IA y Datos" />
-    </td>
-    <td align="center" width="50%">
-      <h4>🗄️ Bases de Datos</h4>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" height="54" alt="Bases de Datos" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <h4>🔧 Control de Versiones & Entorno</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="54" alt="Herramientas" />
+    <td width="40%" align="center" valign="middle">
+      <!-- GIF estilo Anime / Gamer masculino programando -->
+      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="95%" style="border-radius: 12px;" alt="Anime Hacker Setup" />
     </td>
   </tr>
 </table>
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-### 📈 Gráfico de Actividad Dinámica
+### ⚔️ `[ ARSENAL & ARMAMENTO TÉCNICO ]`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delgadoacostaadev-oss&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de Actividad" />
+
+| 🌐 **ATAQUE FRONTEND (UI/UX)** | ⚙️ **PODER BACKEND & CORE** |
+| :---: | :---: |
+| <br><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css&theme=dark" height="52" /><br><br> | <br><img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,php,java&theme=dark" height="52" /><br><br> |
+| 🤖 **MAGIA DE IA & DATOS** | 🗄️ **BÓVEDAS DE DATOS & SETUP** |
+| <br><img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,pandas&theme=dark" height="52" /><br><br> | <br><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,vscode,postman&theme=dark" height="52" /><br><br> |
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 Estadísticas de GitHub
+### 🏆 `[ SALA DE TROFEOS & RANGO ]`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delgadoacostaadev-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Estadísticas de GitHub" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delgadoacostaadev-oss&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Lenguajes más usados" />
+  <img src="https://github-profile-trophy.vercel.app/?username=delgadoacostaadev-oss&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="Trophies" />
+</div>
+
+<br/>
+
+### 📊 `[ TELEMETRÍA & STATS DE COMBATE ]`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=delgadoacostaadev-oss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=00F5D4&text_color=FFFFFF&count_private=true" height="175" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delgadoacostaadev-oss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=FFFFFF" height="175" alt="Top Langs" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=delgadoacostaadev-oss&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="175" alt="Racha de GitHub" />
+  <img src="https://streak-stats.demolab.com?user=delgadoacostaadev-oss&locale=es&mode=daily&theme=radical&hide_border=true&background=0D1117&ring=FF0055&fire=00F5D4&currStreakLabel=00F5D4&border_radius=10" height="175" alt="Streak" />
 </div>
 
----
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delgadoacostaadev-oss&bg_color=0d1117&color=00F5D4&line=FF0055&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
-### 🕹️ Arcade de Contribuciones
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 👾 `[ ZONA ARCADE : DEV MINI-GAMES ]`
 
 <div align="center">
-  <p><b>🐍 Snake alimentándose del historial de contribuciones:</b></p>
+  <p><b>🐍 BOSS STAGE 1: SNAKE DEVOURER</b></p>
   <img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/snake-output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <br/>
-  <p><b>👾 Modo Pacman Retro:</b></p>
+  <p><b>🕹️ BOSS STAGE 2: PAC-MAN RETRO</b></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/pacman-output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/pacman-output/pacman-contribution-graph.svg">
@@ -125,36 +102,37 @@
   </picture>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📫 Conéctate conmigo
+### 📡 `[ INVOCAR AL DESARROLLADOR / CO-OP MODE ]`
 
 <div align="center">
+  <p><i>¿Listo para armar party en un proyecto, hablar de código o echar unas partidas?</i></p>
 
-<a href="mailto:delgadoacosta.a.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Gmail" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/tu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://wa.me/tunumerodetelefono" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="38" alt="WhatsApp" />
-</a>
-&nbsp;
-<a href="https://instagram.com/tu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" alt="Instagram" />
-</a>
-&nbsp;
-<a href="https://facebook.com/tu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="38" alt="Facebook" />
-</a>
-
+  <a href="mailto:delgadoacosta.a.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-FF0055?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/tunumerodetelefono" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-00F5D4?style=for-the-badge&logo=whatsapp&logoColor=black" height="40" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-7B2CBF?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord" />
+  </a>
 </div>
 
 <br/>
 
+<!-- Footer con efecto Venom -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,30&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=110&section=footer" width="100%" />
 </div>
