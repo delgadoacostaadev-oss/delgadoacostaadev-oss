@@ -67,8 +67,6 @@ Estudiante de 4.º ciclo en SENATI, aprendiendo a desarrollar aplicaciones web y
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
 </div>
 
-<br/>
-
 <details>
   <summary><b>📂 Ver tecnologías por categoría</b></summary>
   <br/>
@@ -82,17 +80,7 @@ Estudiante de 4.º ciclo en SENATI, aprendiendo a desarrollar aplicaciones web y
 
 </details>
 
----
 
-### 💻 Proyectos Destacados / Portafolio de Sistemas
-
-| Proyecto | Descripción | Tecnologías | Enlace |
-| :--- | :--- | :--- | :--- |
-| 🌐 **Sistema de Gestión Web** | Plataforma completa para administración de procesos, inventario o ventas. | `React` `Node.js` `MySQL` | [Ver Repositorio / Demo](#) |
-| 📊 **Panel Administrativo (Dashboard)** | Interfaz para visualización de métricas, reportes y control de usuarios. | `JavaScript` `PHP` `Bootstrap` | [Ver Repositorio / Demo](#) |
-| 🛒 **Plataforma de Catálogo / Tienda** | Sistema web interactivo para catálogo de productos y gestión de pedidos. | `HTML5` `Tailwind` `JS` | [Ver Repositorio / Demo](#) |
-
----
 
 ### 📊 Estadísticas de GitHub
 
