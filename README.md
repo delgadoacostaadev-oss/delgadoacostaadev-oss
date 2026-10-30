@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner animado con Rayos Eléctricos y Tormenta de Alto Voltaje estilo React Bits Lightning -->
-  <img src="https://i.imgur.com/R7UMs7x.gif" width="100%" height="240" alt="Lightning Electric Storm Banner" />
+  <img src="https://i.imgur.com/AlN5Jgl.gif" width="100%" height="240" alt="Lightning Electric Storm Banner" />
 </div>
 
 <!-- Título dinámico interactivo en estilo Neon Cyan -->
