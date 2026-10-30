@@ -1,123 +1,140 @@
 <div align="center">
-  <!-- Banner principal estilizado acorde a la paleta nativa de GitHub Dark -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=220&section=header&text=ANTONY%20ACOSTA&fontSize=48&fontColor=58a6ff&fontAlignY=38&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20SENATI%20(4.%C2%B0%20Ciclo)%20%E2%9A%A1&descFontSize=19&descAlignY=62&descColor=8b949e&animation=fadeIn" width="100%" />
+  <!-- Banner principal elegante con degradado profundo y fluido que armoniza con GitHub Dark -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,31&height=220&section=header&text=Antony%20Acosta%20Delgado&fontSize=44&fontAlignY=36&fontColor=FFFFFF&desc=🚀%20Desarrollador%20de%20Software%20%7C%20Full%20Stack%20%26%20IA%20%7C%20SENATI%20(4.°%20Ciclo)&descFontSize=19&descAlignY=60&descColor=38BDF8&animation=fadeIn" width="100%" />
 </div>
 
-<!-- Texto animado estilo terminal en armonía con GitHub -->
+<!-- Texto animado estilo máquina de escribir con contraste nítido -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+Iniciando+entorno+de+desarrollo...+%5BOK%5D;%3E+Stack%3A+Next.js+%2B+NestJS+%2B+Python+%2B+AI;%3E+Construyendo+sistemas+web+y+arquitecturas+escalables;%3E+Estudiante+SENATI+(4.%C2%B0+Ciclo)+%7C+Desarrollador+Full+Stack;%3E+Bienvenido+a+mi+espacio+de+proyectos+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Desarrollador+Full+Stack+%7C+Next.js+%2B+NestJS;Explorando+Inteligencia+Artificial+y+Data+Science;Estudiante+de+Software+en+SENATI+(4.°+Ciclo);Transformando+ideas+en+sistemas+escalables" alt="Typing SVG" />
 </p>
 
-<!-- Badges de estado con la paleta oficial de GitHub Dark -->
+<!-- Badges profesionales alineados en una sola fila -->
 <p align="center">
-  <img src="https://img.shields.io/badge/NIVEL-4.°_CICLO_SENATI-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Nivel" />
-  <img src="https://img.shields.io/badge/ROL-FULL_STACK_&_AI-8957e5?style=for-the-badge&logo=codefactor&logoColor=white" alt="Rol" />
-  <img src="https://img.shields.io/badge/STATUS-PROGRAMANDO_SISTEMAS-238636?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=delgadoacostaadev-oss&label=VISITAS_AL_PERFIL&color=1f6feb&style=for-the-badge" alt="Visitas" />
+  <img src="https://img.shields.io/badge/SENATI-4.°_Ciclo_Software-0969da?style=flat-square&logo=googleclassroom&logoColor=white" alt="SENATI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Especialidad-Full_Stack_&_IA-1f883d?style=flat-square&logo=codefactor&logoColor=white" alt="Especialidad" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Activo_en_Proyectos-8250df?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Status" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=delgadoacostaadev-oss&label=Visitas&color=0969da&style=flat-square" alt="Visitas" />
 </p>
 
 <p align="center">
-  <a href="#-perfil-del-desarrollador"><code>[ 👤 PERFIL ]</code></a> •
-  <a href="#-proyectos--sistemas-destacados"><code>[ 🗺️ PROYECTOS ]</code></a> •
-  <a href="#️-tecnolog%C3%ADas--arsenal-t%C3%A9cnico"><code>[ ⚔️ ARSENAL ]</code></a> •
-  <a href="#-logros-y-reconocimientos"><code>[ 🏆 LOGROS ]</code></a> •
-  <a href="#-telemetr%C3%ADa--estad%C3%ADsticas"><code>[ 📊 STATS ]</code></a> •
-  <a href="#-zona-arcade--contribuciones"><code>[ 👾 ARCADE ]</code></a>
+  <a href="#-sobre-mí"><b>Sobre mí</b></a> •
+  <a href="#-proyectos-y-sistemas-destacados"><b>Proyectos</b></a> •
+  <a href="#-tecnologías-y-herramientas"><b>Tecnologías</b></a> •
+  <a href="#-logros-y-reconocimientos"><b>Logros</b></a> •
+  <a href="#-estadísticas-y-rendimiento"><b>Estadísticas</b></a> •
+  <a href="#-contribuciones-arcade"><b>Arcade</b></a>
 </p>
 
-<!-- Barra divisoria animada integrada con el modo oscuro -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-### 🕹️ `[ PERFIL DEL DESARROLLADOR ]`
+### 👨‍💻 Sobre mí
 
 <table>
   <tr>
-    <td width="60%" valign="middle">
-      <pre>
-╔══════════════════════════════════════════════════════╗
-║  👤 DESARROLLADOR : Antony Acosta Delgado            ║
-║  🎓 INSTITUCIÓN   : SENATI - Desarrollo de Software  ║
-║  ⚔️ STACK PRINC.  : Next.js + NestJS + Python (IA)   ║
-║  🔥 METODOLOGÍA   : Código limpio, rápido y funcional║
-╚══════════════════════════════════════════════════════╝</pre>
-      <p>⚡ <b>Propósito:</b> Transformar ideas y necesidades de gestión en plataformas web escalables, intuitivas y potenciadas con Inteligencia Artificial.</p>
-      <p>🎧 <b>Enfoque técnico:</b> APIs robustas, bases de datos relacionales y NoSQL, modelos de visión con OpenCV y diseño frontend altamente responsivo.</p>
+    <td width="65%" valign="top">
+      <p>¡Hola! Soy <b>Antony Acosta Delgado</b>, estudiante de <b>4.° ciclo de Desarrollo de Software en SENATI</b>. Me apasiona el diseño e implementación de sistemas web eficientes, limpios y orientados a resolver problemas reales de negocio y tecnología.</p>
+      <ul>
+        <li>🎓 <b>Formación Académica:</b> SENATI — Desarrollo de Software (4.° ciclo).</li>
+        <li>💻 <b>Stack de Especialización:</b> Desarrollo Full Stack moderno (Next.js, NestJS, Node.js, Python).</li>
+        <li>🤖 <b>Intereses Tecnológicos:</b> Inteligencia Artificial, visión computacional con OpenCV y ciencia de datos.</li>
+        <li>🚀 <b>Enfoque:</b> Buenas prácticas (Clean Architecture), código modular, APIs RESTful y bases de datos optimizadas.</li>
+      </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- GIF desarrollador trabajando -->
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="95%" style="border-radius: 12px;" alt="Developer Setup" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" style="border-radius: 10px;" alt="Developer Workspace" />
     </td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-### 🗺️ `[ PROYECTOS & SISTEMAS DESTACADOS ]`
+### 🚀 Proyectos y Sistemas Destacados
 
 <div align="center">
 
-| SISTEMA / PROYECTO | DESCRIPCIÓN & SPECS | TECNOLOGÍAS | STATUS & CÓDIGO |
+| Sistema / Plataforma | Descripción y Arquitectura | Stack Tecnológico | Código / Demo |
 | :--- | :--- | :--- | :---: |
-| 🌐 **Sistema Web Administrativo** | Plataforma para administración de procesos empresariales y flujos en tiempo real. | `Next.js` `NestJS` `PostgreSQL` | [⚡ VER PROYECTO](#) |
-| 📊 **Dashboard Telemetría & Datos** | Panel analítico interactivo con métricas dinámicas y gráficos en vivo. | `Python` `Pandas` `Tailwind` | [⚡ VER PROYECTO](#) |
-| 🤖 **Módulo de Visión Computacional** | Reconocimiento, procesamiento y extracción de patrones de imagen con IA. | `Python` `OpenCV` `PyTorch` | [⚡ VER PROYECTO](#) |
+| 🌐 **Sistema Web Administrativo** | Gestión y control integral de procesos, autenticación y flujos empresariales. | `Next.js` `NestJS` `PostgreSQL` | [Ver Repositorio](#) |
+| 📊 **Dashboard Analítico de Métricas** | Plataforma interactiva para monitoreo y visualización de datos en tiempo real. | `Python` `Pandas` `Tailwind` | [Ver Repositorio](#) |
+| 🤖 **Módulo de Visión Computacional** | Reconocimiento y procesamiento automatizado de imágenes con modelos de IA. | `Python` `OpenCV` `PyTorch` | [Ver Repositorio](#) |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-### ⚔️ `[ TECNOLOGÍAS & ARSENAL TÉCNICO ]`
+### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
-| 🌐 **DESARROLLO FRONTEND (UI/UX)** | ⚙️ **BACKEND & LENGUAJES CORE** |
-| :---: | :---: |
-| <br><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css" height="52" alt="Frontend" /><br><br> | <br><img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,php,java" height="52" alt="Backend" /><br><br> |
-| 🤖 **IA & CIENCIA DE DATOS** | 🗄️ **BASES DE DATOS & ENTORNO** |
-| <br><img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,pandas" height="52" alt="IA y Datos" /><br><br> | <br><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,vscode,postman" height="52" alt="Herramientas" /><br><br> |
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <h4>🌐 Desarrollo Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css" height="52" alt="Frontend" />
+    </td>
+    <td align="center" width="50%">
+      <h4>⚙️ Backend & APIs</h4>
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,php,java" height="52" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🤖 IA & Ciencia de Datos</h4>
+      <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,pandas" height="52" alt="IA y Datos" />
+    </td>
+    <td align="center" width="50%">
+      <h4>🗄️ Bases de Datos & Entorno</h4>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,vscode,postman" height="52" alt="Herramientas" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-### 🏆 `[ LOGROS Y RECONOCIMIENTOS ]`
+### 🏆 Logros y Reconocimientos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=delgadoacostaadev-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=delgadoacostaadev-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="Trofeos" />
 </div>
 
 <br/>
 
-### 📊 `[ TELEMETRÍA & ESTADÍSTICAS ]`
+### 📊 Estadísticas y Rendimiento
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delgadoacostaadev-oss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="175" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delgadoacostaadev-oss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="175" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=delgadoacostaadev-oss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&count_private=true" height="170" alt="Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delgadoacostaadev-oss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" height="170" alt="Top Langs" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=delgadoacostaadev-oss&locale=es&mode=daily&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=10" height="175" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=delgadoacostaadev-oss&locale=es&mode=daily&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&border_radius=8" height="170" alt="Streak" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delgadoacostaadev-oss&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delgadoacostaadev-oss&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-### 👾 `[ ZONA ARCADE : CONTRIBUCIONES ]`
+### 🕹️ Contribuciones Arcade
 
 <div align="center">
-  <p><b>🐍 Snake recorriendo el historial de contribuciones:</b></p>
+  <p><b>🐍 Animación Snake de actividad:</b></p>
   <img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/snake-output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <p><b>🕹️ Pacman retro en el tablero de commits:</b></p>
+  <p><b>👾 Modo Pacman retro:</b></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/pacman-output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/pacman-output/pacman-contribution-graph.svg">
@@ -127,7 +144,7 @@
 
 <br/>
 
-<!-- Footer estilizado acorde al tema oscuro de GitHub -->
+<!-- Footer elegante y fluido -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,31&height=100&section=footer" width="100%" />
 </div>
