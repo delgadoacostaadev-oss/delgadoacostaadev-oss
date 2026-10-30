@@ -10,10 +10,20 @@
 
 <!-- Badges de estado estilo Gaming / RPG -->
 <p align="center">
-  <img src="https://img.shields.io/badge/NIVEL-4.°_CICLO_SENATI-FF0055?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLASE-FULL_STACK_&_AI-00F5D4?style=for-the-badge&logo=steam&logoColor=black" />
-  <img src="https://img.shields.io/badge/STATUS-GRINDEANDO_CÓDIGO-7B2CBF?style=for-the-badge&logo=itch.io&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=delgadoacostaadev-oss&label=PLAYERS_ONLINE&color=00F5D4&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NIVEL-4.°_CICLO_SENATI-FF0055?style=for-the-badge&logo=playstation&logoColor=white" alt="Nivel" />
+  <img src="https://img.shields.io/badge/CLASE-FULL_STACK_&_AI-00F5D4?style=for-the-badge&logo=steam&logoColor=black" alt="Clase" />
+  <img src="https://img.shields.io/badge/STATUS-GRINDEANDO_CODIGO-7B2CBF?style=for-the-badge&logo=itch.io&logoColor=white" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=delgadoacostaadev-oss&label=PLAYERS_ONLINE&color=00F5D4&style=for-the-badge" alt="Players Online" />
+</p>
+
+<p align="center">
+  <a href="#-player_1--perfil-de-jugador-"><code>[ 👤 PERFIL ]</code></a> •
+  <a href="#️-quest-log--proyectos--sistemas-"><code>[ 🗺️ MISIONES ]</code></a> •
+  <a href="#️-arsenal--armamento-t%C3%A9cnico-"><code>[ ⚔️ ARSENAL ]</code></a> •
+  <a href="#-sala-de-trofeos--rango-"><code>[ 🏆 LOGROS ]</code></a> •
+  <a href="#-telemetr%C3%ADa--stats-de-combate-"><code>[ 📊 STATS ]</code></a> •
+  <a href="#-zona-arcade--dev-mini-games-"><code>[ 👾 ARCADE ]</code></a> •
+  <a href="#-invocar-al-desarrollador--co-op-mode-"><code>[ 📡 CO-OP ]</code></a>
 </p>
 
 <!-- Barra divisoria RGB animada -->
@@ -32,7 +42,7 @@
 ║  🔥 PASIVA    : Aprender rápido & romper límites     ║
 ╚══════════════════════════════════════════════════════╝</pre>
       <p>⚡ <b>Misión Principal:</b> Transformar ideas complejas en plataformas web brutales, rápidas y con integración de Inteligencia Artificial.</p>
-      <p>🎧 <b>Side Quests:</b> Dominando APIs escalables, bases de datos SQL/NoSQL, visión artificial con OpenCV y arquitecturas limpias mientras suena un buen playlist de fondo.</p>
+      <p>🎧 <b>Side Quests:</b> Dominando APIs escalables, bases de datos SQL/NoSQL, visión artificial con OpenCV y arquitecturas limpias mientras suena un buen playlist synthwave/lo-fi de fondo.</p>
     </td>
     <td width="40%" align="center" valign="middle">
       <!-- GIF estilo Anime / Gamer masculino programando -->
@@ -43,15 +53,29 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+### 🗺️ `[ QUEST LOG : PROYECTOS & SISTEMAS ]`
+
+<div align="center">
+
+| MISIÓN / SISTEMA | DESCRIPCIÓN & SPECS | ARMAS UTILIZADAS | STATUS & LINK |
+| :--- | :--- | :--- | :---: |
+| 🌐 **Sistema Web Administrativo** | Plataforma para administración de procesos empresariales y flujos en tiempo real. | `Next.js` `NestJS` `PostgreSQL` | [⚡ VER CÓDIGO](#) |
+| 📊 **Dashboard Telemetría & Datos** | Panel de monitoreo analítico interactivo con métricas dinámicas. | `Python` `Pandas` `Tailwind` | [⚡ VER CÓDIGO](#) |
+| 🤖 **Módulo de Visión Computacional** | Reconocimiento, procesamiento y extracción de patrones de imagen con IA. | `Python` `OpenCV` `PyTorch` | [⚡ VER CÓDIGO](#) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ### ⚔️ `[ ARSENAL & ARMAMENTO TÉCNICO ]`
 
 <div align="center">
 
 | 🌐 **ATAQUE FRONTEND (UI/UX)** | ⚙️ **PODER BACKEND & CORE** |
 | :---: | :---: |
-| <br><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css&theme=dark" height="52" /><br><br> | <br><img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,php,java&theme=dark" height="52" /><br><br> |
+| <br><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css" height="52" alt="Frontend" /><br><br> | <br><img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,php,java" height="52" alt="Backend" /><br><br> |
 | 🤖 **MAGIA DE IA & DATOS** | 🗄️ **BÓVEDAS DE DATOS & SETUP** |
-| <br><img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,pandas&theme=dark" height="52" /><br><br> | <br><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,vscode,postman&theme=dark" height="52" /><br><br> |
+| <br><img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,pandas" height="52" alt="IA y Datos" /><br><br> | <br><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,vscode,postman" height="52" alt="Herramientas" /><br><br> |
 
 </div>
 
