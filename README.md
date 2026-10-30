@@ -67,6 +67,8 @@ Estudiante de 4.º ciclo en SENATI, aprendiendo a desarrollar aplicaciones web y
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
 </div>
 
+------
+
 <details>
   <summary><b>📂 Ver tecnologías por categoría</b></summary>
   <br/>
