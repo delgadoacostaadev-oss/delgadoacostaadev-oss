@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner animado con Rayos Eléctricos estilo React Bits Lightning (Alta energía & 100% compatible) -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="240" alt="Lightning Electric Banner" />
+  <!-- Banner animado con Rayos Eléctricos y Tormenta de Alto Voltaje estilo React Bits Lightning -->
+  <img src="https://i.imgur.com/R7UMs7x.gif" width="100%" height="240" alt="Lightning Electric Storm Banner" />
 </div>
 
 <!-- Título dinámico interactivo en estilo Neon Cyan -->
@@ -42,8 +42,8 @@
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
-      <!-- El legendario gato programador con la marca de agua @aaron completamente eliminada -->
-      <img src="https://i.imgur.com/yMN89oc.gif" width="100%" alt="Cat Programmer Typing Fast" />
+      <!-- El gato programador tecleando rápido, con la marca de agua @aaron 100% eliminada -->
+      <img src="https://i.imgur.com/ejXsBtx.gif" width="100%" alt="Cat Programmer Typing Fast Clean" />
     </td>
   </tr>
 </table>
@@ -118,7 +118,7 @@
 <br/>
 
 <div align="center">
-  <!-- Animación final temática de programación nocturna -->
+  <!-- Animación temática de programación nocturna -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Setup" />
 </div>
 
