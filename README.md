@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner animado Synthwave / Cyberpunk de gran escala (100% visible en todos los países) -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="240" alt="Tech Cyber Banner" />
+  <!-- Banner animado con Rayos Eléctricos estilo React Bits Lightning (Alta energía & 100% compatible) -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="240" alt="Lightning Electric Banner" />
 </div>
 
 <!-- Título dinámico interactivo en estilo Neon Cyan -->
@@ -42,8 +42,8 @@
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
-      <!-- Animación Cyberpunk Code Typing en alta definición -->
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Cyberpunk Code Animation" />
+      <!-- El legendario gato programador con la marca de agua @aaron completamente eliminada -->
+      <img src="https://i.imgur.com/yMN89oc.gif" width="100%" alt="Cat Programmer Typing Fast" />
     </td>
   </tr>
 </table>
