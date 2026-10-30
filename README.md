@@ -9,15 +9,17 @@ Estudiante de 4.º ciclo en SENATI, aprendiendo a desarrollar aplicaciones web y
 
 ---
 
-### 🚀 Sobre mí
+👨‍💻 Sobre mí
 
-Soy un desarrollador enfocado en el diseño y construcción de **sistemas web funcionales, escalables y orientados a resultados**. Me apasiona transformar requerimientos y problemas reales en herramientas digitales intuitivas y de alto impacto.
+🎓 Estudiante de SENATI, 4.º ciclo.
 
-- 🔭 **Actualmente trabajando en:** Desarrollo de sistemas web empresariales y plataformas a medida.
-- 🌱 **En constante aprendizaje de:** Nuevas arquitecturas de software, rendimiento y despliegue en la nube.
-- 💡 **Enfoque:** Código limpio, interfaces amigables y bases de datos optimizadas.
-- 🎯 **Objetivo:** Contribuir a proyectos de impacto y colaborar con equipos multidisciplinarios.
-- ⚡ **Dato curioso:** Me apasiona analizar flujos de trabajo cotidianos para ver cómo automatizarlos con software.
+💻 Interesado en el desarrollo web Full Stack.
+
+📚 Aprendiendo a crear aplicaciones web desde cero.
+
+🛠️ Desarrollando proyectos académicos y personales.
+
+🎯 Mi objetivo es seguir creciendo como desarrollador de software.
 
 ---
 
