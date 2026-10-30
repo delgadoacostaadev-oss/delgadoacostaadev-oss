@@ -6,11 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Estudiante+de+Software+en+SENATI;Desarrollador+Web+Full+Stack;Explorando+Inteligencia+Artificial+y+Datos;Construyendo+soluciones+digitales+eficientes;¡Bienvenido+a+mi+espacio+en+GitHub!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=delgadoacostaadev-oss&label=👀+Visitas+al+Perfil&color=0284c7&style=flat-square" alt="Visitas al Perfil" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Programando%20🚀-22c55e?style=flat-square" alt="Status" />
-</p>
+
 
 <p align="center">
   <a href="#-sobre-mí"><b>Sobre mí</b></a> •
