@@ -43,13 +43,12 @@
   <tr>
     <td width="58%" valign="top">
       <h3>⚡ Antony Acosta Delgado</h3>
-      <p>Estudiante de <b>4.° ciclo de Desarrollo de Software en SENATI</b>, apasionado por la creación de sistemas y plataformas de alto impacto. Especializado en el desarrollo de arquitecturas web modernas con <b>Next.js</b> y <b>NestJS</b>, integración de <b>Inteligencia Artificial</b> y soluciones interactivas 3D para el sector inmobiliario y comercial.</p>
+      <p>Estudiante de <b>4.° ciclo de Desarrollo de Software en SENATI</b>, apasionado por la creación de sistemas y plataformas de alto impacto. Especializado en el desarrollo de arquitecturas web modernas con <b>Next.js</b> y <b>NestJS</b>, integración de <b>Inteligencia Artificial</b> y soluciones interactivas.</p>
       <ul>
-        <li>🎓 <b>Formación Académica:</b> SENATI — Desarrollo de Software (4to ciclo).</li>
+        <li>🎓 <b>Formación Académica:</b> SENATI — Desarrollo de Software (4to ciclo) actualmente estudiando.</li>
         <li>💻 <b>Stack Core:</b> Next.js, React, NestJS, Node.js, Python, TypeScript.</li>
-        <li>🗺️ <b>Innovación 3D:</b> Maquetas interactivas, lotizadores 3D y visores con Three.js.</li>
         <li>🤖 <b>IA & Visión Artificial:</b> OpenCV, Deep Learning con PyTorch y análisis con Pandas.</li>
-        <li>🛠️ <b>Bases de Datos & Arquitectura:</b> PostgreSQL, MySQL, MongoDB, SQLite y Clean Architecture.</li>
+        <li>🛠️ <b>Bases de Datos & Arquitectura:</b> PostgreSQL, MySQL, MongoDB y SQLite.</li>
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
