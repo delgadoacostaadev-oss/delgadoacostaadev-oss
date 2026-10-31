@@ -128,7 +128,7 @@
 
 <div align="center">
   <!-- El juego de la serpiente (Snake) comiendo las contribuciones de GitHub -->
-  <h4>🐍 `[ THE SNAKE GAME - EATING COMMITS ]`</h4>
+  <h4>🐍 COMMITS 🐍 </h4>
   <img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/snake-output/snake.svg" width="100%" alt="Snake Game GitHub Contributions" />
 </div>
 
@@ -136,7 +136,7 @@
 
 <div align="center">
   <!-- El juego de Pac-Man retro arcade en el tablero de contribuciones -->
-  <h4>👾 `[ PAC-MAN RETRO ARCADE - CONTRIBUTIONS ]`</h4>
+  <h4>👾 CONTRIBUTIONS 👾 </h4>
   <img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/pacman-output/pacman-contribution-graph-dark.svg" width="100%" alt="Pacman Game GitHub Contributions" />
 </div>
 
