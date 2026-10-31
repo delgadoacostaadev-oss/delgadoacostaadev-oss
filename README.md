@@ -74,7 +74,7 @@
 
 ---
 
-### ⚔️ `[ ARSENAL TECNOLÓGICO : STACK PROFESIONAL ]`
+### ⚔️  ARSENAL TECNOLÓGICO : STACK PROFESIONAL 
 
 <div align="center">
 
