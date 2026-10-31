@@ -27,15 +27,17 @@
 </p>
 
 <p align="center">
-  <a href="#-perfil-del-desarrollador"><code>[ 👤 PERFIL ]</code></a> •
-  <a href="#-proyectos-destacados--sistemas-inmobiliarios-y-3d"><code>[ 🚀 PROYECTOS & LOTES 3D ]</code></a> •
-  <a href="#️-arsenal-tecnológico--stack-profesional"><code>[ ⚔️ ARSENAL ]</code></a> •
-  <a href="#-telemetría--rendimiento-en-vivo"><code>[ 📊 TELEMETRÍA ]</code></a>
+  <a href="#perfil"><code>👤 PERFIL</code></a> •
+  <a href="#proyectos"><code>🚀 PROYECTOS & LOTES 3D</code></a> •
+  <a href="#arsenal"><code>⚔️ ARSENAL</code></a> •
+  <a href="#telemetria"><code>📊 TELEMETRÍA</code></a>
 </p>
 
 ---
 
-### 💻 `[ PERFIL DEL DESARROLLADOR ]`
+<div id="perfil"></div>
+
+### 💻 PERFIL DEL DESARROLLADOR
 
 <table>
   <tr>
@@ -59,7 +61,9 @@
 
 ---
 
-### 🚀 `[ PROYECTOS DESTACADOS : SISTEMAS INMOBILIARIOS Y 3D ]`
+<div id="proyectos"></div>
+
+### 🚀 PROYECTOS DESTACADOS : SISTEMAS INMOBILIARIOS Y 3D
 
 <div align="center">
 
@@ -74,7 +78,9 @@
 
 ---
 
-### ⚔️  ARSENAL TECNOLÓGICO : STACK PROFESIONAL 
+<div id="arsenal"></div>
+
+### ⚔️ ARSENAL TECNOLÓGICO : STACK PROFESIONAL
 
 <div align="center">
 
@@ -105,7 +111,9 @@
 
 ---
 
-### 📊 `[ TELEMETRÍA & RENDIMIENTO EN VIVO ]`
+<div id="telemetria"></div>
+
+### 📊 TELEMETRÍA & RENDIMIENTO EN VIVO
 
 <div align="center">
   <!-- Racha interactiva de contribuciones oficial -->
@@ -128,7 +136,7 @@
 
 <div align="center">
   <!-- El juego de la serpiente (Snake) comiendo las contribuciones de GitHub -->
-  <h4>🐍 COMMITS 🐍 </h4>
+  <h4>🐍 COMMITS 🐍</h4>
   <img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/snake-output/snake.svg" width="100%" alt="Snake Game GitHub Contributions" />
 </div>
 
@@ -136,7 +144,7 @@
 
 <div align="center">
   <!-- El juego de Pac-Man retro arcade en el tablero de contribuciones -->
-  <h4>👾 CONTRIBUTIONS 👾 </h4>
+  <h4>👾 CONTRIBUTIONS 👾</h4>
   <img src="https://raw.githubusercontent.com/delgadoacostaadev-oss/delgadoacostaadev-oss/pacman-output/pacman-contribution-graph-dark.svg" width="100%" alt="Pacman Game GitHub Contributions" />
 </div>
 
